@@ -1,0 +1,11 @@
+.venv
+.venv-backup/
+.venv-service/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.pyc
+.env
+dist/
+report.csv
+exceptions.csv
